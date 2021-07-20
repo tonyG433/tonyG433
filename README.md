@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ![](https://komarev.com/ghpvc/?username=tonyG433&style=flat-square)
-
+[![Discord](https://img.shields.io/discord/843910262662496287.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/922BHasDjT)
 
 
 
