@@ -1,3 +1,4 @@
+https://forthebadge.com/images/badges/powered-by-electricity.svg
 - 👋 Hi, I’m @tonyG
 - 👀 I’m interested in 3d printing
 - 🌱 I’m currently learning to code
