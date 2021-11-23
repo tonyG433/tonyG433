@@ -9,8 +9,8 @@
 
 - 👋 Hi, I’m @tonyG
 - 👀 I’m interested in 3d printing
-- 🌱 I’m currently learning to code
-- 😎 I'm currently coding a discord bot in python 
+- ✨ Has a little bit of python knowage
+- 😎 I'm currently coding a discord and revolt bots in typescript and javascript
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21mvy7aci3snjdx66yomtsogy)
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyG433&show_icons=true&theme=dark)
