@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @tonyG
 - 👀 I’m interested in 3d printing
-- ✨ Has a little bit of python knowage
+- ✨ Has a little bit of python knowledge
 - 😎 I'm currently coding a discord and revolt bots in typescript and javascript
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21mvy7aci3snjdx66yomtsogy)
