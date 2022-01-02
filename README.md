@@ -6,10 +6,9 @@
 [![Discord](https://img.shields.io/discord/843910262662496287.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/922BHasDjT)
 
 
-
 - 👋 Hi, I’m @tonyG
 - 👀 I’m interested in 3d printing
-- ✨ Has a little bit of python knowledge
+- ✨ Gaming
 - 😎 I'm currently coding a discord and revolt bots in typescript and javascript
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21mvy7aci3snjdx66yomtsogy)
