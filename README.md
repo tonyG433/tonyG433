@@ -1,17 +1,18 @@
-![discord-py(1)](https://user-images.githubusercontent.com/83699240/126371663-661068b1-f0ae-4688-9aba-51114633e3f3.png)
+<h1> Yo, I am Tony! 👋 </h1>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
-![](https://komarev.com/ghpvc/?username=tonyG433&style=flat-square)
-[![Discord](https://img.shields.io/discord/843910262662496287.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/922BHasDjT)
+Here is some info about me:
 
+- I mess around with bots on Discord 🤖
+- Mainly play VR games, sometimes Valorant, Minecraft or MW2 🎮
+- I mainly use Javascript, however I know some bits of Python 💻
+- I'm into 3d printing and planes ✈️
+- I am a helper in [Dani's basement](https://discord.gg/dani) 🥛
+- You can contact me at any given time on Discord @ tonyG#7840 📱
 
-- 👋 Hi, I’m @tonyG
-- 👀 I’m interested in 3d printing
-- ✨ Gaming
-- 😎 I'm currently coding a discord and revolt bots in typescript and javascript
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21mvy7aci3snjdx66yomtsogy)
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyG433&show_icons=true&theme=dark)
 
 
