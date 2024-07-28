@@ -10,8 +10,8 @@ Here is some info about me:
 - Mainly play VR games, sometimes Valorant, Minecraft or MW2 🎮
 - I mainly use Javascript, however I know some bits of Python 💻
 - I'm into 3d printing and planes ✈️
-- I am a helper in [Dani's basement](https://discord.gg/dani) 🥛
-- You can contact me at any given time on Discord @ tonyG#7840 📱
+- I am a helper in [Dani's basement](https://discord.gg/danii) 🥛
+- You can contact me at any given time on Discord @ lbsf 📱
 
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyG433&show_icons=true&theme=dark)
 
